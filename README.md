@@ -1,6 +1,14 @@
-# 직원 및 아르바이트 근무표 관리
+# SukimaShiftee
 
-이 프로젝트는 구글 스프레드시트, Google Apps Script, 구글 캘린더를 연동해서 근무자 근무표를 관리하고 급여를 계산하는 흐름을 정리한 문서입니다.
+근무표 관리와 급여 계산을 위해 구글 캘린더, Google Apps Script, Google Spreadsheet를 연동하는 프로젝트입니다.
+
+| Language | Name             |
+| -------- | ---------------- |
+| 日本語   | スキマシフティー |
+| 한국어   | 스키마시프티     |
+| English  | SukimaShiftee    |
+
+
 
 ## 1. 직원 및 아르바이트 근무표 관리
 
@@ -249,6 +257,8 @@ Google Spreadsheet는 캘린더에서 읽어 온 근무 일정을 정리하고, 
 - 시트 구조 정리 예정
 - 열 구성 정리 예정
 - 급여 계산 결과 정리 예정
+
+![alt text](images/spreadsheet_1.png)
 
 ### 7-3. 사용자 관점
 
